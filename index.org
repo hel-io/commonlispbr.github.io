@@ -12,7 +12,7 @@ e projetos do Common Lisp Brasil!
 
 Grupo *oficial* do Telegram: [[https://telegram.me/commonlispbr][Common Lisp Brasil]]
 
-Grupo não-oficial de Lisp Brasileiro IRC freenode: [[http://webchat.freenode.net/][#lisp-br]]
+Grupo não-oficial de Lisp Brasileiro IRC freenode: [[https://kiwiirc.com/client/chat.freenode.net:%2B6697/#lisp-br][#lisp-br]]
 
 Os dados a seguir podem estar incompletos ou conter erros. Proceda com
 cuidado e, se você tiver uma sugestão ou reclamação, [[https://github.com/commonlispbr/commonlispbr.github.io][abra uma issue no
@@ -38,7 +38,7 @@ procedimentos. Na linguagens da família Lisp, há a peculiaridade de
 existir uma linha muito tênue de separação entre dados e procedimentos
 no código-fonte. Na realidade, é possível produzir código a partir de
 dados e vice-versa! Uma das características fortes da linguagem é o
-uso da [[https://pt.wikipedia.org/wiki/Nota%25C3%25A7%25C3%25A3o_polonesa][notação polonesa]] onde simplifica a sintaxe da linguagem de uma
+uso da [[https://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_polonesa][notação polonesa]] onde simplifica a sintaxe da linguagem de uma
 maneira sem acrescentar ambiguidades: operações e operandos são
 denotados de forma explícita em sua ordem de precedência no uso de
 listas.
